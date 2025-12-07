@@ -2,8 +2,8 @@ streamlit
 pandas
 scikit-learn
 flask
-beautifulsoup4  <-- **ADD THIS LINE**
-lxml            <-- **ADD THIS LINE (recommended for parsing)**
+beautifulsoup4 
+lxml            
 joblib
 # Add other dependencies your feature.py or app.py uses, such as:
 # numpy
