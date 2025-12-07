@@ -6,6 +6,7 @@ beautifulsoup4
 lxml            
 joblib
 google
+whois
 
 # Add other dependencies your feature.py or app.py uses, such as:
 # numpy
