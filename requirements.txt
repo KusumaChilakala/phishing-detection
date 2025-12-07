@@ -1,6 +1,7 @@
 streamlit
 pandas
 scikit-learn
+flask
 # Add other dependencies your feature.py or app.py uses, such as:
 # numpy
 # joblib
