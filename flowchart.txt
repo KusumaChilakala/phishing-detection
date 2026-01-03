@@ -1,0 +1,50 @@
+
+1. Importing the packages
+2. Exploring the dataset 
+	- phishing dataset (feature Data)
+3. Data processing
+	- Pandas Dataframe
+	- Cleaning rthe datset
+4. Visualization using seaborn & matplotlib
+5. Label Encoding using LabelEncoder
+6. Feature Selection 
+7. Splitting the data to train and test for Deep LEarning and Taking X and Y for Machine Learning
+8. Building the model
+
+	- Linear Regression (LR)
+	- Random Forest
+	- Decision Tree
+	- Support Vector Machine
+	- Naive Bayes
+	- Gradient Boosting
+	- Hybrid LSD - Soft
+	- Hybrid LSD - Hard
+	- LSD with Hyperparameter gridcv
+	- Stacking Classifier - RF + MLP with LightGBM
+
+	 
+ 
+9. Training and Building the model
+
+
+Flask Framework
+----------------
+
+ 
+10. Flask Framework with Sqlite for signup and signin
+11. Importing the packages
+12. User gives input as URL
+13. The given input is preprocessed and Feature is extracted using
+	- using website crawl (with whois and beautifulsoup)
+14. Trained model is used for prediction
+15. Final outcome is displayed through frontend
+
+
+Extension
+----------
+
+In the base paper the author mentioned to use differ sampling and encoding techinque for analysis the dataset with Machine learning models like RF, DT, SVM,NB
+and hybrid models like LSD (LR + SVC + DT) with soft and hard voting and along hyperparameter 
+As an extension we applied ensemble method  combine the predictions of multiple individual models to produce a more robust and accurate final prediction.
+However, we can further enhance the performance by exploring other ensemble techniques such as Stacking Classifier with RF + MLP with LightGBM
+As an extension we can build front end using flask framework for user testing and with user authenication.

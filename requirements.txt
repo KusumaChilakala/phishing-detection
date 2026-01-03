@@ -1,0 +1,12 @@
+streamlit
+pandas
+scikit-learn==1.2.2
+flask
+beautifulsoup4
+lxml
+joblib
+google
+whois
+lightgbm
+numpy
+tldextract
